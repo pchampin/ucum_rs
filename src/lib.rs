@@ -1,5 +1,5 @@
 //! UCUM is the [Unified Code for Units of Measure](https://unitsofmeasure.org/).
-//! 
+//!
 //! This crate is a (partial) implementation of the revision 442 of the
 //! [UCUM specification](http://unitsofmeasure.org/ucum.html).
 //!
@@ -16,16 +16,16 @@
 //! ```
 //!
 //! # Implementation status
-//! 
+//!
 //! ## Syntax and semantics
-//! 
+//!
 //! + [x] Parser for UCUM complex units
 //! + [x] Semantics of standard units
 //! + [x] Semantics of [special units](http://unitsofmeasure.org/ucum.html#section-Special-Units-on-non-ratio-Scales)
 //! + [ ] Semantics of [arbitrary units](http://unitsofmeasure.org/ucum.html#section-Arbitrary-Units)
-//! 
+//!
 //! ## Unit tables
-//! 
+//!
 //! + [x] [Table 1: prefix symbols](http://unitsofmeasure.org/ucum.html#prefixes)
 //! + [x] [Table 2: base units](http://unitsofmeasure.org/ucum.html#baseunits)
 //! + [x] [Table 3: dimensionless units](http://unitsofmeasure.org/ucum.html#prefixes)
@@ -49,9 +49,9 @@
 //! + [ ] [Table 21: Miscellaneous Units](http://unitsofmeasure.org/ucum.html#misc)
 //! + [ ] [Table 22: Units used in Information Science and Technology](http://unitsofmeasure.org/ucum.html#infotech)
 //! + [ ] [Table 23: The special prefix symbols for powers of 2](http://unitsofmeasure.org/ucum.html#infopfx)
-//! 
+//!
 //! ## Misc
-//! 
+//!
 //! + [ ] Full crate documentation
 
 // uncomment this find missing documentations
